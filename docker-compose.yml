@@ -1,0 +1,8 @@
+version: '2'
+services:
+  raspberry-pint:
+    container_name: docker-nmag
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    restart: unless-stopped
