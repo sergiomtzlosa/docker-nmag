@@ -1,6 +1,6 @@
 Nmag is a micromagnetic simulation package. It has been developed at the University of Southampton with substantial contributions from Hans Fangohr, Thomas Fischbacher, Matteo Franchin. It is released under the GNU GPL.
 
-http://nmag.soton.ac.uk/nmag/
+nmag project URL: http://nmag.soton.ac.uk/nmag/
 
 Docker image available here: https://hub.docker.com/repository/docker/sergiomtzlosa/ubuntu-nmag
 
