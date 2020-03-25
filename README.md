@@ -55,3 +55,8 @@ Use the following command to run the docker image as daemon:
 Enter inside docker image prompt with the following command:
 
 **docker exec -it CONTAINER_ID**
+
+Docker image pull
+-----------------
+
+**docker pull sergiomtzlosa/ubuntu-nmag:latest**
