@@ -35,13 +35,14 @@ ENTRYPOINT ["su", "-", "nmag"]
        nsim:2020-03-24 13:13:59,915   setup.py  473    INFO Using 1 CPUs
 
 
-In [1]: </pre>
+In [1]:
+</pre>
 
 
 Run with docker-compose
 -----------------------
 
-Use *docker-compose up* command to run the docker image as daemon.
+Use **docker-compose up** command to run the docker image as daemon.
 
 
 Run docker as daemon
