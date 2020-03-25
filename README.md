@@ -42,7 +42,7 @@ In [1]:
 Run with docker-compose
 -----------------------
 
-Use **docker-compose up** command to run the docker image as daemon.
+Use **docker-compose up -d** command to run the docker image as daemon.
 
 
 Run docker as daemon
