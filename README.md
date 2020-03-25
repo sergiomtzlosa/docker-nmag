@@ -39,12 +39,6 @@ In [1]:
 </pre>
 
 
-Run with docker-compose
------------------------
-
-Use **docker-compose up -d** command to run the docker image as daemon.
-
-
 Run docker as daemon
 ---------------------
 
@@ -54,7 +48,7 @@ Use the following command to run the docker image as daemon:
 
 Enter inside docker image prompt with the following command:
 
-**docker exec -it CONTAINER_ID**
+**docker exec -it CONTAINER_ID su - nmag**
 
 Docker image pull
 -----------------

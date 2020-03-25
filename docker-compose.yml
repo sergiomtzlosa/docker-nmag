@@ -1,8 +1,7 @@
 version: '2'
 services:
-  docker-ubuntu-nmag:
-    container_name: nmag
+  docker-ubuntu:
+    container_name: nmag-image
     build:
       context: ./
       dockerfile: ./Dockerfile
-    restart: unless-stopped
