@@ -55,4 +55,9 @@ Docker image pull
 
 **docker pull sergiomtzlosa/ubuntu-nmag:latest**
 
- * Password for command *su - nmag* is: *nmag*
+Credentials
+-----------
+
+* User: nmag
+* Password: nmag
+
