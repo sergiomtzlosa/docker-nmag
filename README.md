@@ -4,7 +4,7 @@ Nmag is a micromagnetic simulation package. It has been developed at the Univers
 
 Docker image available here: https://hub.docker.com/repository/docker/sergiomtzlosa/ubuntu-nmag
 
-**NEW: Download de base nmag image and the docker file used to build the final release here:**
+**NEW: Download the base nmag image and the docker file used to build the final release here:**
 
 https://mega.nz/#!3NwByYpY!yu11bXcBhdxs0Z0fy8xwFcGJv6V2DwjKFmwUorFBA1k
 
