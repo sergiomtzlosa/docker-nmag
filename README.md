@@ -16,7 +16,7 @@ Use the ubuntu-nmag image
 <pre>
 FROM sergiomtzlosa/ubuntu-nmag:latest
 
-ENTRYPOINT ["su", "-", "nmag"]
+ENTRYPOINT ["/bin/bash"]
 </pre>
 
 2.- Build the docker image (4.2GB):
