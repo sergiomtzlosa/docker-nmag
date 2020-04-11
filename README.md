@@ -29,6 +29,8 @@ ENTRYPOINT ["/bin/bash"]
 
 4.- Once you are inside the bash shell of the image type:
 
+**su - nmag **
+
 **nsim**
 
 5.- After that you will get the nsim output:
@@ -52,7 +54,13 @@ Use the following command to run the docker image as daemon:
 
 Enter inside docker image prompt with the following command:
 
-**docker exec -it CONTAINER_ID su - nmag**
+**docker exec -it CONTAINER_ID bash**
+
+Once you are inside the bash shell of the image type:
+
+**su - nmag **
+
+**nsim**
 
 Docker image pull
 -----------------
