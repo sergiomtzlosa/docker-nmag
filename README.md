@@ -58,7 +58,7 @@ Enter inside docker image prompt with the following command:
 
 Once you are inside the bash shell of the image type:
 
-**su - nmag **
+**su - nmag**
 
 **nsim**
 
