@@ -29,7 +29,7 @@ ENTRYPOINT ["/bin/bash"]
 
 4.- Once you are inside the bash shell of the image type:
 
-**su - nmag **
+**su - nmag**
 
 **nsim**
 
